@@ -111,7 +111,7 @@ Karena ukuran dataset gambar yang cukup besar, folder dataset **tidak dimasukkan
 
 ### 1. Unduh Dataset via Google Drive
 Anda dapat mengunduh zip dataset yang digunakan dalam proyek ini melalui tautan berikut:
-* 📥 **[Unduh Dataset di Google Drive (Ganti dengan Link Anda)](https://drive.google.com/...)**
+* 📥 **[Unduh Dataset di Google Drive (Ganti dengan Link Anda)](https://drive.google.com/drive/folders/1PEqFUSqC1vtNb0DOP7Jw_BEDNsWAWTSr?usp=sharing)**
 
 ### 2. Cara Penempatan Folder
 1. Ekstrak berkas `.zip` dataset yang telah diunduh.
